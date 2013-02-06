@@ -25,6 +25,7 @@ include('lock.php');
 				</div>
 				<div id="login-content">
 					<ul class="login-menu">
+						<li>tweet</li>
 						<li id="Edit Profile"><a href="#">Edit Profile</a></li>
 						<li id="Add Program"><a href="#">Add Program</a></li>
 						<li id="My Programs"><a href="#">My Programs</a></li>
