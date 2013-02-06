@@ -20,7 +20,7 @@
 
 
 <div id="content">
-   <font color="black">Invalid user name or password</font>
+   <font color="black">Poor kitty, :( Invalid user name or password</font>
 	<?php
 	include("login.php");
 	?>
