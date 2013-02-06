@@ -41,7 +41,7 @@
 			<div id="content">
 				 <h2>About</h2>
 				<p><strong>MyChoralRep</strong> is a website that will bring choral directors from all different regions together to share program information, view trends, and 
-												connect with one another. Please feel free to browse the site freely, or search based on one of our multiple criteria. Thanks for looking!</p>
+												connect with one another. Register now to search based on one of our multiple criteria. Thanks for looking!</p>
 				<p>We are currently undergoing a 'face lift', so if you have any questions or would like more information about the services we provide please feel free to contact us.</p>
 	     
 				<h2>Contact Us</h2>
